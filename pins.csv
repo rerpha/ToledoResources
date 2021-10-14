@@ -7,14 +7,14 @@ Speeduino Pin #,Function,In use?,Delphi Pin #,Notes
 6,Injector 4 - Pin 2/2,0,,
 7,Ignition 1,1,A1,
 8,Ignition 4,0,,
-9,Ground,1,,C1
-10,Ground,1,,C2
+9,Ground,1,C1,
+10,Ground,1,C2,
 11,MAP Sensor (0v-5v),0,,"Using internal, no need"
-12,Ground,1,,C3
-13,5v,1,,C4
-14,Proto Area 1 (0.4.4b+ Flex Sensor),1,,C5
-15,Proto Area 2 (0.4.4b+ Fan),1,,C6
-16,Proto Area 3 (0.4.4b+ Fuel Pump),1,,C7
+12,Ground,1,C3,
+13,5v,1,C4,
+14,Proto Area 1 (0.4.4b+ Flex Sensor),1,C5,
+15,Proto Area 2 (0.4.4b+ Fan),1,C6,
+16,Proto Area 3 (0.4.4b+ Fuel Pump),1,C7,
 17,Proto Area 4 (0.4.4b+ Tachometer),0,,
 18,Proto Area 5 (0.4.4b+ Clutch),0,,
 19,Coolant (CLT),1,B1,
