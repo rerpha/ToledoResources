@@ -10,16 +10,16 @@ Speeduino Pin #,Function,In use?,Molex pin #,Delphi Pin #,Notes,wire colour,igni
 9,Ground,1,4,C1,Shielding?,brown,x
 10,Ground,1,5,C2,More Shielding?,,
 11,MAP Sensor (0v-5v),0,,,"Using internal, no need",,
-12,Ground,1,6,C3,CLT ground,black,x
+12,Ground,1,6,C3,CLT ground,black/yellow,x
 13,5v,1,7,C4,For TPS Vref,,
 14,Proto Area 1 (0.4.4b+ Flex Sensor),1,8,C5,,,
 15,Proto Area 2 (0.4.4b+ Fan),1,9,C6,,grey,x
 16,Proto Area 3 (0.4.4b+ Fuel Pump),1,10,C7,,,
 17,Proto Area 4 (0.4.4b+ Tachometer),0,,,,,
 18,Proto Area 5 (0.4.4b+ Clutch),0,,,,,
-19,Coolant (CLT),1,11,B1,,white,x
+19,Coolant (CLT),1,11,B1,,green,x
 20,Inlet Air Temp (IAT),1,12,B2,,,
-21,O2 Sensor,1,13,B3,May be wired directly to TinyWB anyway ,,
+21,O2 Sensor,1,13,B3,"May be wired directly to TinyWB anyway ",,
 22,TPS input,1,14,B4,,,
 23,Ground,1,15,B7,For Hall ground,black,x
 24,Cam Input / VR2+,0,,,,,
