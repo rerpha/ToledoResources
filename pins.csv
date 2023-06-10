@@ -13,7 +13,7 @@ Speeduino Pin #,Function,In use?,Molex pin #,Notes,wire colour loom,wire colour 
 12,Ground,1,6,CLT ground,black/yellow,black,x
 13,5v,1,7,For TPS Vref,,,
 14,Proto Area 1 (0.4.4b+ Flex Sensor),1,8,,,,
-15,Proto Area 2 (0.4.4b+ Fan),1,9,,,grey,x
+15,Proto Area 2 (0.4.4b+ Fan),1,9,12v sink,white/red,grey,x
 16,Proto Area 3 (0.4.4b+ Fuel Pump),1,10,,,,
 17,Proto Area 4 (0.4.4b+ Tachometer),0,,,,,
 18,Proto Area 5 (0.4.4b+ Clutch),0,,,,,
